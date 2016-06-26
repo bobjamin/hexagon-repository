@@ -1,5 +1,5 @@
 CMD="$1"
-LOOKUP="$2"
+LOOKUP="$REPO"
 
 isInFile ()
 {
